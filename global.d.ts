@@ -1,10 +1,10 @@
-export {};
+// export {};
 
-declare global {
-  interface Window {
-    supportAI: {
-      version: string;
-      enableAutoReply: () => void;
-    };
-  }
-}
+// declare global {
+//   interface Window {
+//     supportAI: {
+//       version: string;
+//       enableAutoReply: () => void;
+//     };
+//   }
+// }
